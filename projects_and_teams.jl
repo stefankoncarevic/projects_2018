@@ -829,7 +829,120 @@ projects = Project[
 		),
 		false
 	),
-	
+	Project(
+		"Ice Climber",
+		45,
+		3,
+		Team(
+			Student[
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/vukse95/super_mario"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y", # Git repo
+			"", # Youtube
+			"", # Bit file
+			"" # Doc file
+		),
+		false
+	),
+	Project(
+		"Lode Runner",
+		45,
+		3,
+		Team(
+			Student[
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/vukse95/super_mario"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y", # Git repo
+			"", # Youtube
+			"", # Bit file
+			"" # Doc file
+		),
+		false
+	),
+	Project(
+		"8-bit MIDI",
+		45,
+		3,
+		Team(
+			Student[
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/boza94/pizeo_buzz"),
+				URL("https://github.com/rondor1/Buzzer-synthesizer"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y", # Git repo
+			"", # Youtube
+			"", # Bit file
+			"" # Doc file
+		),
+		false
+	),
+
+
 ]
 
 additional = URL[
