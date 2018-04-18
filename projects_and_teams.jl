@@ -99,7 +99,7 @@ projects = Project[
 					"Vesna",
 					"Isic",
 					"RA-41/2015",
-					"xxx@yyy",
+					"isic.vesna@gmail.com",
 					0
 				),
 				Student(
@@ -119,7 +119,8 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/CubeLord/LPRS2-Zelda.git", # Git repo
+			"https://github.com/CubeLord/LPRS2-Zelda.gitq", 
+# Git repo
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
