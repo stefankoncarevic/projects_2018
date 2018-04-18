@@ -89,17 +89,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
+					"Milorad",
+					"Markovic",
+					"RA-162/2015",
+					"mmiloradmiso@gmail.com",
+					0
+				),
+				Student(
+					"Vesna",
+					"Isic",
+					"RA-41/2015",
 					"xxx@yyy",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Jelena",
+					"Boroja",
+					"RA-22/2015",
+					"jelena.boroja1@gmail.com",
 					0
 				),
 			]
@@ -112,7 +119,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
+			"https://github.com/CubeLord/LPRS2-Zelda.git", # Git repo
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
