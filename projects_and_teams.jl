@@ -521,23 +521,38 @@ projects = Project[
 	Project(
 		"Potapanje brodića",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksandar",
+					"Lazovic",
+					"RA-2/2015",
+					"alazovic96@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksandar",
+					"Martinovic",
+					"RA-4/2015",
+					"a.martinovic996@gmail.com",
 					0
 				),
+				Student(
+					"Aleksandar",
+					"Tendjer",
+					"RA-167/2015",
+					"tendjer@protonmail.com",
+					0
+				),
+				Student(
+					"Uros",
+					"Radujko",
+					"RA-179/2015",
+					"urosradujko@gmail.com",
+					0
+				),
+				
 			]
 		),
 		Spec(
