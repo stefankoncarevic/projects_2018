@@ -196,21 +196,35 @@ projects = Project[
 	Project(
 		"Duck Hunt",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Mladen",
+					"Matić",
+					"RA-44/2015",
+					"maticmladen96@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Mihailo",
+					"Marković",
+					"RA-191/2015",
+					"mix996@gmail.com",
+					0
+				),
+				Student(
+					"Damjan",
+					"Glamočić",
+					"RA-65/2015",
+					"damjan.glamocic75@gmail.com",
+					0
+				),
+				Student(
+					"Marko",
+					"Milošević",
+					"RA-46/2015",
+					"markom26@yandex.ru",
 					0
 				),
 			]
