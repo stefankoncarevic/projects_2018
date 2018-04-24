@@ -1096,21 +1096,35 @@ projects = Project[
 	Project(
 		"Tower Defence",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
+					"Branislav",
+					"Gamf",
 					"RA-XXX/20YY",
 					"xxx@yyy",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
+					"Dusan",
+					"Kenjic",
 					"RA-XXX/20YY",
 					"xxx@yyy",
+					0
+				),
+				Student(
+					"Nikola",
+					"Cvetanovski",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Stefan",
+					"Jovanovic",
+					"RA-234/2013",
+					"stefanj94@live.com",
 					0
 				),
 			]
