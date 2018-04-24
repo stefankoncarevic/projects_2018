@@ -934,6 +934,43 @@ projects = Project[
 		),
 		false
 	),
+	Project(
+		"8-bit Audio",
+		45,
+		3,
+		Team(
+			Student[
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/boza94/pizeo_buzz"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y", # Git repo
+			"", # Youtube
+			"", # Bit file
+			"" # Doc file
+		),
+		false
+	),
 	
 ]
 
