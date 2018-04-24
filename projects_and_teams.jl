@@ -65,6 +65,13 @@ projects = Project[
 					"pavle.portic@tilda.center",
 					0
 				),
+				Student(
+					"Kosta",
+					"Svrdlan",
+					"RA-6/2015",
+					"svrdlankosta@gmail.com",
+					0
+				),
 			]
 		),
 		Spec(
