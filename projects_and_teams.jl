@@ -89,17 +89,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Milorad",
+					"Markovic",
+					"RA-162/2015",
+					"mmiloradmiso@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Vesna",
+					"Isic",
+					"RA-41/2015",
+					"isic.vesna@gmail.com",
+					0
+				),
+				Student(
+					"Jelena",
+					"Boroja",
+					"RA-22/2015",
+					"jelena.boroja1@gmail.com",
 					0
 				),
 			]
@@ -112,7 +119,8 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
+			"https://github.com/CubeLord/LPRS2-Zelda.gitq",
+# Git repo
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
@@ -126,17 +134,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Nebojsa",
+					"Kakuca",
+					"RA-147/2015",
+					"nebojsa96@live.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Nemanja",
+					"Lazic",
+					"RA-104/2015",
+					"nemanjanesh@gmail.com",
+					0
+				),
+				Student(
+					"Milica",
+					"Ponos",
+					"RA-118/2015",
+					"miponos@hotmail.com",
 					0
 				),
 			]
@@ -237,17 +252,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Nikola",
+					"Malenčić",
+					"RA-122/2015",
+					"nmalencic@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Dejan",
+					"Bordjoški",
+					"RA-053/2015",
+					"bordjoski.dejan@gmail.com",
+					0
+				),
+				Student (
+					"Naci",
+					"Cemo",
+					"Treceg",
+					"Uskoro",
 					0
 				),
 			]
@@ -270,21 +292,35 @@ projects = Project[
 	Project(
 		"Worms",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Bojan",
+					"Strbac",
+					"RA-82/2015",
+					"bokasina@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Marko",
+					"Milosavljevic",
+					"RA-90/2015",
+					"mmarko1996@gmail.com",
+					0
+				),
+				Student(
+					"Branislav",
+					"Novak",
+					"RA-221/2015",
+					"banenovak.bn@gmail.com",
+					0
+				),
+				Student(
+					"Stevan",
+					"Popov",
+					"RA-207/2015",
+					"steva.popov96@gmail.com",
 					0
 				),
 			]
@@ -311,17 +347,31 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksa",
+					"Rodić",
+					"RA-218/2015",
+					"aleksa.rodic@uns.ac.rs",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Danka",
+					"Radovanović",
+					"RA-206/2014",
+					"danka.radovanovic95@gmail.com",
+					0
+				),
+				Student(
+					"Nemanja",
+					"Raković",
+					"RA-134/2014",
+					"nemus95@yahoo.com",
+					0
+				),
+				Student(
+					"Sara",
+					"Brančić",
+					"RA-150/2014",
+					"sara.brancic@gmail.com",
 					0
 				),
 			]
@@ -385,17 +435,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksa",
+					"Arsic",
+					"RA-119/2015",
+					"aleksa.arsic.ftn@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Milan",
+					"Musikic",
+					"RA-252/2017",
+					"milan.musikic@gmail.com",
+					0
+				),
+				Student(
+					"Ivan",
+					"Mitrovic",
+					"RA-39/2013",
+					"ivanmitrovic94@yahoo.com",
 					0
 				),
 			]
@@ -492,21 +549,35 @@ projects = Project[
 	Project(
 		"Potapanje brodića",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksandar",
+					"Lazovic",
+					"RA-2/2015",
+					"alazovic96@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksandar",
+					"Martinovic",
+					"RA-4/2015",
+					"a.martinovic996@gmail.com",
+					0
+				),
+				Student(
+					"Aleksandar",
+					"Tendjer",
+					"RA-167/2015",
+					"tendjer@protonmail.com",
+					0
+				),
+				Student(
+					"Uros",
+					"Radujko",
+					"RA-179/2015",
+					"urosradujko@gmail.com",
 					0
 				),
 			]
@@ -755,18 +826,25 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
+					"Predrag",
+					"Radonjic",
+					"RA-58/2015",
 					"xxx@yyy",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
+					"Vladimir",
+					"Spasojevic",
+					"RA-57/2015",
 					"xxx@yyy",
 					0
+				),
+				Student(
+					"Janos",
+					"Bagi",
+					"RA-59/2015",
+					"jany.bagi@gmail.com",
+					0				
 				),
 			]
 		),
@@ -787,6 +865,80 @@ projects = Project[
 	),
 	Project(
 		"Trap Adventure",
+		45,
+		3,
+		Team(
+			Student[
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/vukse95/super_mario"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y", # Git repo
+			"", # Youtube
+			"", # Bit file
+			"" # Doc file
+		),
+		false
+	),
+	Project(
+		"Ice Climber",
+		45,
+		3,
+		Team(
+			Student[
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Name",
+					"Lastname",
+					"RA-XXX/20YY",
+					"xxx@yyy",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/vukse95/super_mario"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y", # Git repo
+			"", # Youtube
+			"", # Bit file
+			"" # Doc file
+		),
+		false
+	),
+	Project(
+		"Lode Runner",
 		45,
 		3,
 		Team(
@@ -935,7 +1087,7 @@ projects = Project[
 		false
 	),
 	Project(
-		"8-bit Audio",
+		"8-bit MIDI",
 		45,
 		3,
 		Team(
@@ -961,6 +1113,7 @@ projects = Project[
 			""",
 			URL[
 				URL("https://github.com/boza94/pizeo_buzz"),
+				URL("https://github.com/rondor1/Buzzer-synthesizer"),
 			]
 		),
 		Solution(
@@ -1007,3 +1160,4 @@ for project in projects
 end
 
 ###############################################################################
+
