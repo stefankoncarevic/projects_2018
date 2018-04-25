@@ -2,10 +2,10 @@
 ###############################################################################
 
 type Student
-	name::AbstractString
-	surname::AbstractString
-	index::AbstractString
-	email::AbstractString
+	name::String
+	surname::String
+	index::String
+	email::String
 	points::Int
 end
 
@@ -13,9 +13,9 @@ type Team
 	members::Vector{Student}
 end
 
-typealias URL AbstractString
+const URL = String
 type Spec
-	text::AbstractString
+	text::String
 	resources::Vector{URL}
 end
 
@@ -32,7 +32,7 @@ type Solution
 end
 
 type Project
-	name::AbstractString
+	name::String
 	points::Int
 	min_team_members::Int
 	team::Team
@@ -286,7 +286,7 @@ projects = Project[
 					"bordjoski.dejan@gmail.com",
 					0
 				),
-				Student (
+				Student(
 					"Naci",
 					"Cemo",
 					"Treceg",
@@ -1204,11 +1204,25 @@ function project_taken(project::Project)
 	!any(map((member) -> member.name == "??", project.team.members))
 end
 
-for project in projects
-	if !project.done && project_taken(project)
-		println("Not done: ", project.name)
+if false
+	for project in projects
+		if !project.done && project_taken(project)
+			println("Not done: ", project.name)
+		end
+	end
+end
+
+if false
+	resources = Set{URL}()
+	for project in projects
+		for r in project.spec.resources
+			push!(resources, r)
+		end
+	end
+	
+	for r in resources
+		println("Resource: ", r)
 	end
 end
 
 ###############################################################################
-
