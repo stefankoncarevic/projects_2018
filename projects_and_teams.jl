@@ -684,9 +684,9 @@ projects = Project[
 				),
 				Student(
 					"Stefan",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Misic",
+					"RA-251/2017",
+					"stefan_2142@outlook.com",
 					0
 				),
 			]
