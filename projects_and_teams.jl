@@ -672,18 +672,18 @@ projects = Project[
 					"Aleksandar",
 					"Gruba",
 					"RA-049/2015",
-					"xxx@yyy",
+					"salegruba@yahoo.com",
 					0
 				),
 				Student(
 					"Milica",
 					"Damjanovic",
 					"RA-185/2015",
-					"xxx@yyy",
+					"milicaeo96@gmail.com",
 					0
 				),
 				Student(
-					"Name",
+					"Stefan",
 					"Lastname",
 					"RA-XXX/20YY",
 					"xxx@yyy",
